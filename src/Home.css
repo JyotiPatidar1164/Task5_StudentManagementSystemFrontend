@@ -1,0 +1,24 @@
+body{
+    background-color:cornflowerblue;
+}
+h1{
+    text-align: center;
+color: floralwhite;
+
+}
+
+div
+{  
+    text-align: center;
+    padding-top: 30px;
+}
+button
+{
+    background-color:lightcyan;
+    color: rgb(41, 78, 110);
+    border-radius: 20px;
+    border-color: rgb(18, 49, 49);
+    width: 180px;
+    font-style: italic;
+   
+}

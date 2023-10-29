@@ -1,0 +1,18 @@
+
+h1{
+    text-align: center;
+   color: rgb(17, 62, 102); 
+   background-color:white;
+   }
+li{
+    text-align: center;
+}
+table, th,td {
+    border:1px solid black;
+    text-align: center;
+    
+  }
+  table{
+    width: 100%;
+
+  }
