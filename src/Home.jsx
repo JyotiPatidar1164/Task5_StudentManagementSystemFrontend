@@ -10,7 +10,7 @@ function Home() {
       <h1 style={{backgroundColor:"white", color:"black" }}>STUDENT MANAGEMENT SYSTEM</h1>
       <div>
         <Link to="/viewRecode">
-        <button>STUDENT RECODE</button>
+        <button>STUDENT RECORDE</button>
         </Link>
         <br />
         <br />
@@ -34,7 +34,7 @@ function Home() {
         <br />
         <br />
         <Link to="/Recode">
-        <button>Find Student</button>
+        <button>FIND STUDENT</button>
         </Link>
       </div>
      
